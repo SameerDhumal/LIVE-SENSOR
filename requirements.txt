@@ -1,5 +1,5 @@
 pymongo==4.2.0
 
--e . # editable mode
+-e . # editable mode added here 
 
 
